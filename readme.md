@@ -4,7 +4,7 @@ A data validator by specification.
 Install
 --------
 
-    $ npm install pathname
+    $ npm install satisfic
 
 
 
