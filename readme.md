@@ -17,7 +17,7 @@ Examples
         name: function (checker, data, process) {
             checker.notEmpty();
         },
-        email: function (c, data, process) {
+        email: function (checker, data, process) {
             checker.notEmpty().isEmail();
         }
     });
